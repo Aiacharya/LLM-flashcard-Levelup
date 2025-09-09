@@ -2,6 +2,8 @@
 
 A modern flashcard application built with Angular 18 for learning LLM (Large Language Model) concepts.
 
+![Alt text](llmflash.jpg)
+
 ## Author
 
 **Pankaj** - GenAI Guru  
@@ -154,3 +156,4 @@ This project is licensed under the MIT License.
 ---
 
 **Built with ❤️ for the AI learning community**
+
